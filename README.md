@@ -32,10 +32,6 @@ ImageInsight AI is a deep learning-based image classification project that lever
   - Python 3.x
   - Pip package manager
 
-# Installation
-
-pip install tensorflow opencv-python matplotlib numpy
-
 
 # Dataset Structure
 Your dataset folder should be organized like this:
